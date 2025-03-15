@@ -4,7 +4,7 @@ An operating system (OS) is essential software that acts as an intermediary betw
 
 ---
 
-![Functions of an Operating System](image.png)
+![Functions of an Operating System](functions-of-operating-system.jpg)
 
 ### **Core Functions of an Operating System**
 
