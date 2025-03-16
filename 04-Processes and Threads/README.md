@@ -2,7 +2,7 @@ A **process** is an instance of a program in execution, managed by the operating
 
 ---
 
-![Process VS Thread](process-vs-thread.jpg)
+![Process VS Thread](image.png)
 
 ## Processes and PCB
 
